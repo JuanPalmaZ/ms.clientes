@@ -1,4 +1,4 @@
-package cl.paris.marketplace.ms.productos.security;
+package cl.paris.marketplace.ms.clientes.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
